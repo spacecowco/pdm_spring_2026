@@ -49,7 +49,6 @@ print("Hello World")
 ## 6. Authors
 
 * **Name:** [Your Name]
-* **Date:** January 2026
 
 ---
 
