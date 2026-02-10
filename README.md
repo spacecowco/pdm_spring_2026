@@ -1,57 +1,40 @@
-# pdm_spring_2025
+# Knudsen Institute Supply Chain Intelligence
 
-
-# Project Title: [Your Project Name]
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/company/knudsen-institute/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 1. Project Overview
 
-*A brief summary of what this project does and why it exists.*
+This project leverages **AI-powered web scraping** to transform unstructured web data into actionable **supply chain intelligence**.  
 
-* **Status:** [In-Development / Complete]
-* **Goal:** [One-sentence objective]
+* **Status:** In-Development  
+* **Goal:** Automate the collection, analysis, and structuring of unstructured data to support visibility and risk management in the defense industrial base.  
 
-## 2. Technical Stack
+Key data points extracted include:  
+- 🏭 Supplier capacity  
+- 📜 Certifications  
+- ⚠️ Supply chain risk factors  
 
-*List the core technologies being used.*
-
-* **Language:** [e.g., Python]
-* **Database:** [e.g., SQLite / Neo4j]
-* **Web Framework:** [e.g., FastAPI / HTMX]
-* **Other:** [e.g., Docker, LangChain]
-
-## 3. Setup Instructions
-
-*How to get the project running locally.*
-
-1. **Clone repo:** `git clone [url]`
-2. **Environment:** `pip install -r requirements.txt`
-3. **Run:** `python main.py`
-
-## 4. Current Progress (Dev Log)
-
-*Stubbed out for future updates.*
-
-* [x] Initial repository setup
-* [ ] Core logic implementation
-* [ ] API/UI Integration
-* [ ] Final testing and documentation
-
-## 5. Usage / Examples
-
-*Once the project is functional, add a brief example or screenshot here.*
-
-```python
-# Example code snippet or command
-print("Hello World")
-
-```
-
-## 6. Authors
-
-* **Name:** [Your Name]
+The system implements an **agentic AI pipeline** to fully automate the **collection → analysis → structuring** workflow.  
 
 ---
 
-### Pro-Tip for Students
+## 2. Technical Stack
 
-Recommend keeping the **Project Overview** updated first; it helps prevent "scope creep" as the project gets more complex.
+* **Language:** Python 3.9+  
+
+---
+
+## 3. Setup Instructions
+
+1. **Clone the repository:**  
+```bash
+git clone https://github.com/dalal35/Knudsen-Institute.git
+cd Knudsen-Institute
