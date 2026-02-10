@@ -1,0 +1,310 @@
+{
+  "search_metadata": {
+    "id": "698ba41d12eb14292a5e27ad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XJ4t6qzNF3aDkRXc_aTlJQ/698ba41d12eb14292a5e27ad.json",
+    "created_at": "2026-02-10 21:33:17 UTC",
+    "processed_at": "2026-02-10 21:33:17 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Pratt+%26+Whitney+supply+chain&oq=Pratt+%26+Whitney+supply+chain&hl=en&gl=us&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/XJ4t6qzNF3aDkRXc_aTlJQ/698ba41d12eb14292a5e27ad.html",
+    "prettify_html_file": "https://serpapi.com/searches/XJ4t6qzNF3aDkRXc_aTlJQ/698ba41d12eb14292a5e27ad.prettify",
+    "total_time_taken": 8.64
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Pratt & Whitney supply chain",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "RsFwFnicPZNLjqNWAEWlrITMuqVQxcMGbJU84I8xH_P_TBDwngEDBgPGmHk2ErUSKRvIArKKympSo77DI13pSFf39z9Q9c8xdbQ04s-cQTb3aTxvx0v7YIsfqBnyz3_5tntGbqzphF9ZoGyjoKYgaVwNpbkahFE7pD9FYcPHjbfNSFsLpOYU-BBEa2z4dbymm2IJ5CXO_LjKJUlzRPsZC_bGccBR84y75dm2DiKQCTGfBWro3HwiE-E9A6WdecXirEfSkIzQDuJbusKNWEI18g098hvBE1VTb5cFKoZlKEabhT4XL50Gr2VneDmwG3Ebk_nfjxENSVqg2_T50Lu1apr0nXojsG96mle3qRvLD-x4m1CDfQHMdLAQA0QCqIT5jrF936AAZadqeqcJ6g28AQr7dlJcXfsNa6oaYTLK6-475qNhrLrbO2DeKMxJL-lQ_Sz8mXddXaH_fvk1SRyUPwaEO659PrACLXTFwwzUFxeFgU9J_jObfRNq_E1RRG5cUw0RJfIveLbL16CvNQg2FoCbTfqo4d4wlf45m8s9dK60Ifksj8yaIUc3uSXmTmK1O7f9wFiRP7Cp2qbUxIeLYFiik4HbOTXqHG5RfWlVr5mDV6EM6W1K5A5X4DacG-ToSnB-7T6wn9Kcx59E98AbhfSBCf6hoGkVldp6kndEwXaQ4BKl10_1eUuHi1SbkJhf66JG1HPHsqYwbC-SqPeaZz4t9isfmHEUDhS5O1SIHe4yXfl-odb77urro67sz90RDuz9FVEKk5vBCtBZBIk4ecUGFvnaMDhQsvMEC1taNjQhpKIkt0TmKbofrk3Qefqs8i0SkJDHZDQCr8Nxy2NCpSg564UDlbiz0uNKrU-5nOi133TzScl3bMkrYyTqZk9VgiuzjVnMGaPrYjfKjnQTpBPxgIA88gF1cjyJg-iKJ0noKQ1fnxV2PZ3TAX-Sca2GcUpGuBnZe5eZinK3T3S5NxnbfnakGt6lVn4xxrR3COa5fol2EFo_2nGqP_9ivUlcLoL3SraPahzy1Kqv20EXqJUzaFxy7e6Gvl41yHZyfUSL-xBWpiXpVin3ZVLgzYay7ow2XOkw1-T-a_RBJZY-BHNHz8VcAcC7TslVhjxUriU7mrdUOMl5JnK1ImxmWQyOu3CZ7pCgYo4fTX1LQ07YO_1plydPy8_IJSwW73_2RWxZ",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Pratt & Whitney, a subsidiary of RTX Corporation, operates a massive global supply chain that supports the production and maintenance of commercial and military jet engines like the Geared Turbofan (GTF) and F135.",
+      "snippet_links": [
+        {
+          "text": "RTX Corporation",
+          "link": "https://www.rtx.com/en/prattwhitney"
+        }
+      ],
+      "reference_indexes": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Supply Chain Status"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Normalization Timeline: Executives expect the current supply-demand imbalance to level off by the end of the decade.",
+          "snippet_links": [
+            {
+              "text": "level off by the end of the decade",
+              "link": "https://www.reuters.com/business/aerospace-defense/pratt-whitney-exec-expects-engine-supply-imbalance-level-off-by-end-decade-2026-01-29/"
+            }
+          ]
+        },
+        {
+          "snippet": "Key Obstacles: The primary roadblocks remain material shortages (specifically powdered metals) and casting shortages, which have previously delayed engine deliveries to manufacturers like Airbus."
+        },
+        {
+          "snippet": "GTF Inspections: The company is managing a massive effort to resolve grounded aircraft caused by contaminated powdered metal in GTF engine components, with expectations to clear the backlog within two years.",
+          "snippet_links": [
+            {
+              "text": "GTF engine components",
+              "link": "https://www.ishkaglobal.com/News/Article/7477/Engine-lessor-CEOs-optimistic-on-GTF-resolution-but-warn-supply-chain-issues-l"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        6,
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Strategic Initiatives"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Vertical Integration: To gain more control over part output, the company is increasing vertical integration, including investments in new atomization towers for metal powder production.",
+          "snippet_links": [
+            {
+              "text": "atomization towers",
+              "link": "https://aviationweek.com/mro/supply-chain/pratt-whitney-eyes-materials-supply-chain-breakthrough"
+            }
+          ]
+        },
+        {
+          "snippet": "Global Capability Centers: The India Capability Center (ICC) in Bengaluru uses data science and analytics to modernize supplier delivery and communication across time zones."
+        },
+        {
+          "snippet": "Logistics Partnerships: Pratt & Whitney utilizes specialized logistics providers like GXO Logistics and UPS to manage centralized distribution centers for parts and tooling.",
+          "snippet_links": [
+            {
+              "text": "GXO Logistics",
+              "link": "https://gxo.com/news_article/gxo-strengthens-aerospace-business-with-pratt-and-whitney-contract-renewal/"
+            }
+          ]
+        },
+        {
+          "snippet": "Industry 4.0 & Automation: The company is deploying advanced robotics (e.g., \"Alfred\" in Singapore) to automate complex engine assembly tasks, reducing manual labor and improving quality.",
+          "snippet_links": [
+            {
+              "text": "advanced robotics",
+              "link": "https://www.rtx.com/en/prattwhitney/future-of-flight/operations-and-facilities"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        9,
+        8,
+        10,
+        5,
+        7,
+        11
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Supplier Requirements"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Compliance & Ethics: Suppliers must adhere to strict Environment, Health, and Safety (EH&S) guidelines and transparency acts regarding human trafficking and slavery.",
+          "snippet_links": [
+            {
+              "text": "Environment, Health, and Safety (EH&S) guidelines",
+              "link": "https://www.rtx.com/en/prattwhitney/our-company/about/doing-business-with-us"
+            }
+          ]
+        },
+        {
+          "snippet": "Quality Standards: All suppliers must comply with the ASQR-01 standard, which defines quality requirements for manufacturing and services.",
+          "snippet_links": [
+            {
+              "text": "quality requirements",
+              "link": "https://www.rtx.com/suppliers/united-technologies-suppliers/united-technologies-asqrd"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to explore specific supplier portals or more details on the GTF engine recall recovery plan?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Pratt & Whitney Eyes Materials Supply Chain Breakthrough",
+      "link": "https://aviationweek.com/mro/supply-chain/pratt-whitney-eyes-materials-supply-chain-breakthrough#:~:text=Supply%20Chain%20Breakthrough-,Share,strategy%20transformation%20and%20supply%20chain.",
+      "snippet": "Oct 15, 2025 \u2014 Share. Alex Derber October 15, 2025. Credit: RTX/Pratt & Whitney. LONDON\u2014Pratt & Whitney is not far from improving its materials s...",
+      "source": "Aviation Week Network",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/IbVoPkaQAUyYkqoi7B3tAbp6kV49K5pwTUt239MsXNc.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/JKXKs2M0YrEhxlpn9lYfhhVn5yvkstBqSL6-WqICQrQ.png",
+      "index": 0
+    },
+    {
+      "title": "Doing Business With Us | Pratt & Whitney - RTX",
+      "link": "https://www.rtx.com/en/prattwhitney/our-company/about/doing-business-with-us#:~:text=Supplier%20Performance,Contractors%20applicable%20to%20Quebec%20plants.",
+      "snippet": "Supplier Performance. Supplier performance is an essential element of developing a world-class, integrated supply chain. Pratt & W...",
+      "source": "RTX",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/UgiLfHAHY6cUb0t9HXGZbKeTc_AfSpOELjk8XecVhVA.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/x9kb_3lThJepKYRi9-j6gVMgpf5d0Zl85dGim9qafT0.png",
+      "index": 1
+    },
+    {
+      "title": "Supply chain issues slow growth for Pratt & Whitney - AGN",
+      "link": "https://aerospaceglobalnews.com/news/supply-chain-issues-slow-growth-for-pratt-whitney/#:~:text=Persisting%20supply%20chain%20issues%20and,warned%20that%20it%20may%20not%E2%80%A6&text=Whitney%20Supply%20chain-,Persisting%20supply%20chain%20issues%20and%20casting%20shortages%20are%20likely%20to,affect%20Raytheon%20Missiles%20and%20Defense.",
+      "snippet": "Feb 28, 2022 \u2014 Supply chain issues slow growth for Pratt & Whitney. Persisting supply chain issues and casting shortages are likely to result in ...",
+      "source": "Aerospace Global News",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/LsFJV-5oX3xd6zQzMZW5a2lFDytIUFqOREvla0un454.png",
+      "index": 2
+    },
+    {
+      "title": "Pratt & Whitney and Collins Aerospace supplier quality requirements ...",
+      "link": "https://www.rtx.com/suppliers/united-technologies-suppliers/united-technologies-asqrd#:~:text=Pratt%20&%20Whitney%20Supplier%20Quality%20System,Revision%2015%20went%20into%20effect.",
+      "snippet": "Pratt & Whitney Supplier Quality System Requirements ASQR-01 defines supplier quality requirements for manufacturing organizations...",
+      "source": "RTX",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/1PFJEBF1l3TxUIZ6M_0eBZmIV72aYriaJhQPhN6TgzU.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/CfxB2KETn8eLKauRw0XfZWUc5wJN2-gtCAhX3BnfbQM.png",
+      "index": 3
+    },
+    {
+      "title": "Engine lessor CEOs optimistic on GTF 'resolution', but warn ...",
+      "link": "https://www.ishkaglobal.com/News/Article/7477/Engine-lessor-CEOs-optimistic-on-GTF-resolution-but-warn-supply-chain-issues-l#:~:text=28%20May%202024-,Engine%20lessor%20CEOs%20optimistic%20on%20GTF%20'resolution'%2C%20but%20warn,inspections%20to%20ground%20A320neos').",
+      "snippet": "May 28, 2024 \u2014 Engine lessor CEOs optimistic on GTF 'resolution', but warn supply chain issues likely to persist. A number of engine lessor CEOs ...",
+      "source": "www.ishkaglobal.com",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/pX0MoD_Lqy2CVTjHsXnI-UZRMdg73EoTXfnNjCkBFrI.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/nVa9iTFS4fKt5vlrQQRdmcvfk9gJ0nhbqFK58vMPfx0.png",
+      "index": 4
+    },
+    {
+      "title": "Aerospace logistics partnership renewed with Pratt & Whitney - GXO",
+      "link": "https://gxo.com/news_article/gxo-strengthens-aerospace-business-with-pratt-and-whitney-contract-renewal/#:~:text=About%20GXO,%2C%20Facebook%2C%20Instagram%20and%20YouTube.",
+      "snippet": "Aug 4, 2025 \u2014 About GXO. GXO Logistics, Inc. (NYSE: GXO) is the world's largest pure-play contract logistics provider and is positioned to capit...",
+      "source": "GXO",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/q7AH-lBy2GAcLZpA3K-8K2jUtdRg8uZolQuWGNFsHMM.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/DYzamNy3_fehO7GP8PJJ65j4CrfMCf6CnMngw4z9xGk.png",
+      "index": 5
+    },
+    {
+      "title": "Pratt & Whitney executive expects engine supply imbalance to ...",
+      "link": "https://www.reuters.com/business/aerospace-defense/pratt-whitney-exec-expects-engine-supply-imbalance-level-off-by-end-decade-2026-01-29/#:~:text=Subscribe-,Pratt%20&%20Whitney%20executive%20expects%20engine%20supply%20imbalance%20to%20level%20off,improving%20but%20remains%20a%20challenge.",
+      "snippet": "Jan 29, 2026 \u2014 Pratt & Whitney executive expects engine supply imbalance to level off by end of decade. By Reuters. January 29, 20267:08 PM UTCUp...",
+      "source": "Reuters",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/Edeo4n8zWXmqLn9GNZIUK-_EopRjKWsRAJjLNWWU5U4.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/A4WTt2BZ9VxDHh8AsUUt6q1dQQGCaKuRartkc7MeF5w.png",
+      "index": 6
+    },
+    {
+      "title": "Operations & Facilities | Pratt & Whitney - RTX",
+      "link": "https://www.rtx.com/en/prattwhitney/future-of-flight/operations-and-facilities#:~:text=Industry%204.0%20at%20Pratt%20&%20Whitney,flows%20upward%20to%20the%20top.",
+      "snippet": "Industry 4.0 at Pratt & Whitney factories Pratt & Whitney has launched a dedicated effort across the company's worldwide manufactu...",
+      "source": "RTX",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/tyS7loRsVL2a43V9GXhzDgbkvYCt2_mO_xcz5pwJJKU.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/kVbkqGw1Yl9qJ9g1itKIX-AG0KNBZjrtq-_oisruTPE.png",
+      "index": 7
+    },
+    {
+      "title": "Pratt & Whitney To Open New Capability Center In Bengaluru ...",
+      "link": "https://www.youtube.com/watch?v=MUVcR0nEvqA",
+      "snippet": "Mar 25, 2022 \u2014 hello everyone this is Kanga Gangapuram. and you're watching Hibbus News pratt and Whitney today announced its plan to open a worl...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/xq_H2yGtrKpylr-9LCgxgmK4iBkr6FUXJyhVsAkrqLA.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Pratt & Whitney India Capability Center",
+      "link": "https://www.youtube.com/watch?v=jEwJIeqZh1o",
+      "snippet": "Sep 7, 2022 \u2014 india is a market which is not only important for us from a growth standpoint. it is also very important from us from a talent sta...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/4s-Mkrngt3BkDWjaeFGapupHc4YW61WHMH_NJ4tf7dc.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Supplying a relationship - Aerospace Manufacturing and Design",
+      "link": "https://www.aerospacemanufacturinganddesign.com/article/amd0215-distribution-center-ups-pratt-whitney/#:~:text=UPS%20will%20operate%20a%20centralized%20distribution%20center%20for%20Pratt%20&%20Whitney%20in%20New%20Hampshire.",
+      "snippet": "UPS will operate a centralized distribution center for Pratt & Whitney in New Hampshire.",
+      "source": "Aerospace Manufacturing and Design",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/r-dIJFgCnPjDwFqX7dxeXap14zo-r6lzcJzKBFwHUAw.jpeg",
+      "source_icon": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/Fzz5lSvtBZ-sKQE8IPnt_4vqALdEDwE5hNlmu7TDSjU.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Assembly News Now, episode 13: Pratt and Whitney ...",
+      "link": "https://www.youtube.com/watch?v=gP_RbLUuljM&t=5",
+      "snippet": "Jan 7, 2025 \u2014 welcome to Assembly News Now this is multimedia editor Jennifer Pierce. and here's what's happening with product assembly on Janua...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/698ba41d12eb14292a5e27ad/images/F-oKno2dyjKayRvIvke4PG-y40-9fxZ6YtmGNj0RxKA.jpeg",
+      "index": 11
+    },
+    {
+      "title": "Pratt \\u0026 Whitney - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pratt_%26_Whitney#:~:text=Pratt%20&%20Whitney%20is%20an%20American,especially%20airliners)%20and%20military%20aviation.",
+      "snippet": "Pratt \\u0026 Whitney's large commercial engines power more than 25 percent of the world's passenger aircraft fleet and serve more than ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFbW9Q3OvPuQ3OOk9cGN5eQVcd7BVJRZK14mK_oE1rArNeFW34",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 12
+    },
+    {
+      "title": "Suppliers - Pratt \\u0026 Whitney Rzesz\u00f3w",
+      "link": "https://pwrze.com/en/suppliers#:~:text=Menu%20Side,We%20employ%20nearly%203700%20employees.",
+      "snippet": "Suppliers. We are the European Supply Chain Office (ESCO) and we purchase production and non-production materials and manage the d...",
+      "source": "pwrze",
+      "thumbnail": "https://pwrze.com/en/suppliers",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pwrze.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 13
+    },
+    {
+      "title": "Raytheon subsidiary Pratt \\u0026 Whitney reach labor deal with Machinists Union",
+      "link": "https://www.foxbusiness.com/economy/raytheon-subsidiary-pratt-whitney-reach-labor-deal-machinists-union#:~:text=Pratt%20&%20Whitney%20manufactures%20jet%20engines%20for,Wetzel%20on%20the%20state%20of%20the%20industry.",
+      "snippet": "Pratt \\u0026 Whitney manufactures jet engines for commercial and military planes FOX Business' Grady Trimble speaks with Homeyer Precis...",
+      "source": "Fox Business",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0JWoau8LyHchfaLwXxXoQ1PXdSRK63yB7ZjGgwJsQEEbrQk2Y",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 14
+    },
+    {
+      "title": "Pratt \\u0026 Whitney to support F-35 Lightning II JSF programme - Airforce Technology",
+      "link": "https://www.airforce-technology.com/news/newspratt-whitney-to-support-f-35-lightning-ii-jsf-programme/#:~:text=Under%20the%20contract%2C%20Pratt%20&%20Whitney%20will,and%20field%20support%20for%20the%20F135%20engines.",
+      "snippet": "Under the contract, Pratt \\u0026 Whitney will provide engines, spare parts, programme management, engineering support for production, s...",
+      "source": "Air Force Technology",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrAUEqVcw8w5jFMWV-TDa-AjS7OkCCO1A51oVf2QSCTF6W64_f",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airforce-technology.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Florida Local 971 Members Ratify Strong Contract with Pratt \\u0026 Whitney",
+      "link": "https://www.goiam.org/news/territories/aerospace-territories/florida-local-971-members-ratify-strong-contract-with-pratt-whitney/#:~:text=IAM%20members%20at%20Pratt%20&%20Whitney%20are,production%20and%20maintenance%20of%20jet%20aircraft%20engines.",
+      "snippet": "IAM members at Pratt \\u0026 Whitney are employed in various roles, including inspectors, machinists, machine operators, A\\u0026P Mechanics, ...",
+      "source": "IAM Union",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAZc7Ynzb5gtzcQmc13kJJw2Nh_S4DJFb6-e33WiOm9pxFW1Tr",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.goiam.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    }
+  ]
+}
